@@ -42,7 +42,7 @@ require_once 'includes/header.php';
                         <div class="swiper-slide hero-slide">
                             <div class="hero-slide-inner" style="background-image: url('assets/images/hero-slider-img-3.jpg');">
                                 <div class="hero-slide-content">
-                                    <h1 class="c-dark">Smart financial services for firms and individuals.</h1>
+                                    <h1 class="c-dark">Global Consulting and Specialist Talent Solutions for Legal and Technical Operations.</h1>
                                     <div class="button-group">
                                         <p>Got questions? 
                                             <a href="contact.php" class="link">
@@ -56,7 +56,7 @@ require_once 'includes/header.php';
                         <div class="swiper-slide hero-slide">
                             <div class="hero-slide-inner" style="background-image: url('assets/images/hero-slider-img-4.jpg');">
                                 <div class="hero-slide-content">
-                                    <h1 class="c-dark">Smart financial services for firms and individuals.</h1>
+                                    <h1 class="c-dark">Your Dedicated Overseas Partner for Legal Support and Technical Service Delivery.</h1>
                                     <div class="button-group">
                                         <p>Got questions? 
                                             <a href="contact.php" class="link">
@@ -124,8 +124,7 @@ require_once 'includes/header.php';
                     <div class="col-lg-8">
                         <div class="intro-content">
                             <h2>About Reighway Consulting</h2>
-                            <p class="paragraph-lg c-grey">Reighway Consulting was founded on a clear belief: exceptional talent knows no borders. We connect global organizations with the specialized expertise they need to excel in an increasingly competitive marketplace.</p>
-                            <p class="paragraph-lg c-grey">Reighway Consulting was founded on a clear belief: exceptional talent knows no borders. We connect global organizations with the specialized expertise they need to excel in an increasingly competitive marketplace.</p>
+                            <p class="paragraph-lg c-grey">Reighway Consulting, founded in 2025 and based in India, transforms UK legal operations through secure IT platforms including comprehensive CMS solutions. We connect India's elite legal and tech talent—specially trained for UK standards—with law firms needing streamlined research, drafting, compliance, contracts, litigation support, IP management, LPO services, and custom Content Management Systems. ISO 27001 compliant security and GDPR-ready platforms engineered from day one. </p>
                         </div>
                     </div>
                     <div class="col-lg-4">

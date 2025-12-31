@@ -54,23 +54,23 @@ hero slider section
 hero_pagination = [
     {
         icon: 'assets/images/icons/icon-4.png',
-        name: 'Taxtation',
-        paragraph: 'Tax planning and complicated tax return preparation.'
+        name: 'Legal Research ',
+        paragraph: 'AI-powered case law analysis, precedent search, automated summaries '
     },
     {
         icon: 'assets/images/icons/icon-5.png',
-        name: 'Business',
-        paragraph: 'CFO level work for small and medium sizes businesses.'
+        name: 'Documentation & Drafting',
+        paragraph: 'Template automation, clause libraries, version control '
     },
     {
         icon: 'assets/images/icons/icon-6.png',
-        name: 'Consulting',
-        paragraph: 'Expert advice on financial planning, mergers, estate and more.'
+        name: 'Contract Lifecycle Management ',
+        paragraph: 'Workflow automation, approval chains, renewal alerts '
     },
     {
         icon: 'assets/images/icons/icon-7.png',
-        name: 'Giving',
-        paragraph: 'Charitable work for the local community and beyound.'
+        name: 'Compliance Management ',
+        paragraph: 'Real-time regulatory tracking, audit trails, risk dashboards '
     }
 ]
 

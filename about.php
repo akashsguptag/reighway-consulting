@@ -62,8 +62,8 @@ require_once 'includes/header.php';
                             <h2>About Reighway Consulting</h2>
                             <p class="paragraph-lg c-grey">The Bridge to Global Excellence-Reighway Consulting was founded on a clear belief: exceptional talent knows no borders. We connect global organizations with the specialized expertise they need to excel in an increasingly competitive marketplace.</p>
                             <p class="paragraph-lg c-grey">Our Mission: To deliver seamless, compliant, and cost-effective consulting and talent solutions that function as a true extension of our clients internal teams.</p>
-                            <img src="assets/images/signature.png" alt="Reighway Consulting Signature">
-                            <p class="paragraph-sm c-grey">CPA/PFS, CFP®, CGMA, CDFA</p>
+                            <!-- <img src="assets/images/signature.png" alt="Reighway Consulting Signature">
+                            <p class="paragraph-sm c-grey">CPA/PFS, CFP®, CGMA, CDFA</p> -->
                         </div>
                     </div>
                     <div class="col-lg-4">
