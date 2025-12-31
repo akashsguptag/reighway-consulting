@@ -17,7 +17,7 @@ require_once 'includes/header.php';
                                     <h1 class="c-dark">Global Consulting and Specialist Talent Solutions for Legal and Technical Operations.</h1>
                                     <div class="button-group">
                                         <p>Got questions? 
-                                            <a href="contact" class="link">
+                                            <a href="contact.php" class="link">
                                                 <span class="txt-upper f-w-500">Talk to an Expert</span>
                                             </a>
                                         </p>
@@ -31,7 +31,7 @@ require_once 'includes/header.php';
                                     <h1 class="c-dark">Your Dedicated Overseas Partner for Legal Support and Technical Service Delivery</h1>
                                     <div class="button-group">
                                         <p>Got questions? 
-                                            <a href="contact" class="link">
+                                            <a href="contact.php" class="link">
                                                 <span class="txt-upper f-w-500">Talk to an Expert</span>
                                             </a>
                                         </p>
@@ -45,7 +45,7 @@ require_once 'includes/header.php';
                                     <h1 class="c-dark">Smart financial services for firms and individuals.</h1>
                                     <div class="button-group">
                                         <p>Got questions? 
-                                            <a href="contact" class="link">
+                                            <a href="contact.php" class="link">
                                                 <span class="txt-upper f-w-500">Talk to an Expert</span>
                                             </a>
                                         </p>
@@ -59,7 +59,7 @@ require_once 'includes/header.php';
                                     <h1 class="c-dark">Smart financial services for firms and individuals.</h1>
                                     <div class="button-group">
                                         <p>Got questions? 
-                                            <a href="contact" class="link">
+                                            <a href="contact.php" class="link">
                                                 <span class="txt-upper f-w-500">Talk to an Expert</span>
                                             </a>
                                         </p>
@@ -92,13 +92,13 @@ require_once 'includes/header.php';
                     <div class="cta-section-content sec-hero-slider-content txt-center">
                         <h3 class="c-white f-w-400 heading-50 mg-center">Reighway Consulting is more than a consultancy; we are your strategic operational partner. We bridge the gap between world-class talent and global organizations, specializing in bespoke legal support and robust IT infrastructure. We enable firms to scale rapidly while maintaining the highest standards of compliance and excellence.</h3>
                         <div class="button-group">
-                            <a href="career" class="button button-1 txt-upper">
+                            <a href="career.php" class="button button-1 txt-upper">
                                 <div>
                                     <i class="far fa-envelope"></i>
                                     <span>Join Our Global Team </span>
                                 </div>
                             </a>
-                            <a href="contact" class="button button-2 txt-upper">
+                            <a href="contact.php" class="button button-2 txt-upper">
                                 <div>
                                     <i class="fas fa-headphones"></i>
                                     <span>Partner With Us </span>
@@ -262,13 +262,13 @@ require_once 'includes/header.php';
                 <div class="row">
                     <div class="cta-section-content txt-center">
                         <div class="button-group">
-                            <a href="career" class="button button-1 txt-upper">
+                            <a href="career.php" class="button button-1 txt-upper">
                                 <div>
                                     <i class="far fa-envelope"></i>
                                     <span>Join Our Global Team </span>
                                 </div>
                             </a>
-                            <a href="contact" class="button button-2 txt-upper">
+                            <a href="contact.php" class="button button-2 txt-upper">
                                 <div>
                                     <i class="fas fa-headphones"></i>
                                     <span>Partner With Us </span>

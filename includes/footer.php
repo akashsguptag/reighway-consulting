@@ -42,27 +42,27 @@ $base_path = '';
                             <h6 class="txt-sm c-primary f-w-500 txt-upper">company</h6>
                             <ul class="txt-sm-1 c-grey">
                                 <li>
-                                    <a href="<?php echo $base_path; ?>about" class="link  link-md link-grey">
+                                    <a href="<?php echo $base_path; ?>about.php" class="link  link-md link-grey">
                                         <span>About</span>
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="<?php echo $base_path; ?>service" class="link  link-md link-grey">
+                                    <a href="<?php echo $base_path; ?>service.php" class="link  link-md link-grey">
                                         <span>Services</span>
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="<?php echo $base_path; ?>career" class="link  link-md link-grey">
+                                    <a href="<?php echo $base_path; ?>career.php" class="link  link-md link-grey">
                                         <span>Careers</span>
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="<?php echo $base_path; ?>contact" class="link  link-md link-grey">
+                                    <a href="<?php echo $base_path; ?>contact.php" class="link  link-md link-grey">
                                         <span>Contact</span>
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="<?php echo $base_path; ?>privacy-policy" class="link  link-md link-grey">
+                                    <a href="<?php echo $base_path; ?>privacy-policy.php" class="link  link-md link-grey">
                                         <span>Privacy</span>
                                     </a>
                                 </li>

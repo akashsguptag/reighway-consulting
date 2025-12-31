@@ -1,46 +1,36 @@
-# Enable Rewrite Engine
+# If mod_rewrite is available, use it
+<IfModule mod_rewrite.c>
 RewriteEngine On
-
-# Force HTTPS (optional - uncomment if you have SSL)
-# RewriteCond %{HTTPS} off
-# RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+RewriteBase /
 
 # Remove .php extension from URLs
-# If the request is for a .php file, redirect to clean URL
-RewriteCond %{THE_REQUEST} /([^.]+)\.php [NC]
-RewriteRule ^ /%1? [NC,L,R=301]
+RewriteCond %{THE_REQUEST} \s/+(.+?)\.php[\s?] [NC]
+RewriteRule ^ /%1? [R=301,L]
 
-# Add .php extension internally if file exists
+# Add .php extension internally
+RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d
-RewriteCond %{REQUEST_FILENAME}\.php -f
+RewriteCond %{REQUEST_FILENAME}.php -f
 RewriteRule ^(.*)$ $1.php [L]
+</IfModule>
 
-# Remove trailing slash (optional)
-RewriteCond %{REQUEST_FILENAME} !-d
-RewriteRule ^(.*)/$ /$1 [R=301,L]
-
-# Handle index.php - redirect to root
-RewriteCond %{THE_REQUEST} /index\.php [NC]
-RewriteRule ^index\.php$ / [NC,L,R=301]
+# If mod_rewrite is NOT available, use PHP router
+<IfModule !mod_rewrite.c>
+# Redirect all requests to router.php
+DirectoryIndex router.php index.php index.html
+</IfModule>
 
 # Prevent directory listing
 Options -Indexes
 
 # Set default index file
-DirectoryIndex index.php index.html
+DirectoryIndex index.php router.php index.html
 
 # Security Headers
 <IfModule mod_headers.c>
-    # Prevent clickjacking
     Header always set X-Frame-Options "SAMEORIGIN"
-    
-    # XSS Protection
     Header always set X-XSS-Protection "1; mode=block"
-    
-    # Prevent MIME type sniffing
     Header always set X-Content-Type-Options "nosniff"
-    
-    # Referrer Policy
     Header always set Referrer-Policy "strict-origin-when-cross-origin"
 </IfModule>
 
@@ -62,8 +52,3 @@ DirectoryIndex index.php index.html
     ExpiresByType application/pdf "access plus 1 month"
     ExpiresByType text/html "access plus 0 seconds"
 </IfModule>
-
-# Custom Error Pages (optional)
-# ErrorDocument 404 /404.php
-# ErrorDocument 500 /500.php
-

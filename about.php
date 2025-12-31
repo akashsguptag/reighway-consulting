@@ -13,7 +13,7 @@ require_once 'includes/header.php';
                     <div class="col">
                         <div class="page-header-content">
                             <h1 class="c-dark">About us</h1>
-                            <p class="small ln-ht-auto c-dark">Got questions? <a href="contact" class="link link-inherit"><span>Talk to an Expert</span></a></p>
+                            <p class="small ln-ht-auto c-dark">Got questions? <a href="contact.php" class="link link-inherit"><span>Talk to an Expert</span></a></p>
                         </div>
                     </div>
                 </div>
@@ -35,7 +35,7 @@ require_once 'includes/header.php';
                         <div class="page-header-list-content">
                             <ul>
                                 <li>
-                                    <a href="about" class="link link-md active">
+                                    <a href="about.php" class="link link-md active">
                                         <span class="f-w-500">About</span>
                                     </a>
                                 </li>
@@ -92,13 +92,13 @@ require_once 'includes/header.php';
                     <div class="cta-section-content txt-center">
                         <h3 class="c-white f-w-400 heading-50 mg-center">Reighway Consulting is more than a consultancy; we are your strategic operational partner. We bridge the gap between world-class talent and global organizations, specializing in bespoke legal support and robust IT infrastructure. We enable firms to scale rapidly while maintaining the highest standards of compliance and excellence.</h3>
                         <div class="button-group">
-                            <a href="career" class="button button-1 txt-upper">
+                            <a href="career.php" class="button button-1 txt-upper">
                                 <div>
                                     <i class="far fa-envelope"></i>
                                     <span>Join Our Global Team </span>
                                 </div>
                             </a>
-                            <a href="contact" class="button button-2 txt-upper">
+                            <a href="contact.php" class="button button-2 txt-upper">
                                 <div>
                                     <i class="fas fa-headphones"></i>
                                     <span>Partner With Us </span>
@@ -191,13 +191,13 @@ require_once 'includes/header.php';
                 <div class="row">
                     <div class="cta-section-content txt-center">
                         <div class="button-group">
-                            <a href="career" class="button button-1 txt-upper">
+                            <a href="career.php" class="button button-1 txt-upper">
                                 <div>
                                     <i class="far fa-envelope"></i>
                                     <span>Join Our Global Team </span>
                                 </div>
                             </a>
-                            <a href="contact" class="button button-2 txt-upper">
+                            <a href="contact.php" class="button button-2 txt-upper">
                                 <div>
                                     <i class="fas fa-headphones"></i>
                                     <span>Partner With Us </span>

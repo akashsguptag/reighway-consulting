@@ -14,7 +14,7 @@ require_once 'includes/header.php';
                         <div class="page-header-list-content">
                             <ul>
                                 <li>
-                                    <a href="privacy-policy" class="link link-md active">
+                                    <a href="privacy-policy.php" class="link link-md active">
                                         <span class="f-w-500">Privacy Policy</span>
                                     </a>
                                 </li>
@@ -76,13 +76,13 @@ require_once 'includes/header.php';
                 <div class="row">
                     <div class="cta-section-content txt-center">
                         <div class="button-group">
-                            <a href="career" class="button button-1 txt-upper">
+                            <a href="career.php" class="button button-1 txt-upper">
                                 <div>
                                     <i class="far fa-envelope"></i>
                                     <span>Join Our Global Team </span>
                                 </div>
                             </a>
-                            <a href="contact" class="button button-2 txt-upper">
+                            <a href="contact.php" class="button button-2 txt-upper">
                                 <div>
                                     <i class="fas fa-headphones"></i>
                                     <span>Partner With Us </span>

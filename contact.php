@@ -13,7 +13,7 @@ require_once 'includes/header.php';
                     <div class="col">
                         <div class="page-header-content">
                             <h1 class="c-dark">Get in Touch</h1>
-                            <p class="small ln-ht-auto c-dark">Got questions? <a href="contact" class="link link-inherit"><span>Talk to an Expert</span></a></p>
+                            <p class="small ln-ht-auto c-dark">Got questions? <a href="contact.php" class="link link-inherit"><span>Talk to an Expert</span></a></p>
                         </div>
                     </div>
                 </div>
@@ -187,13 +187,13 @@ require_once 'includes/header.php';
                 <div class="row">
                     <div class="cta-section-content txt-center">
                         <div class="button-group">
-                            <a href="career" class="button button-1 txt-upper">
+                            <a href="career.php" class="button button-1 txt-upper">
                                 <div>
                                     <i class="far fa-envelope"></i>
                                     <span>Join Our Global Team </span>
                                 </div>
                             </a>
-                            <a href="contact" class="button button-2 txt-upper">
+                            <a href="contact.php" class="button button-2 txt-upper">
                                 <div>
                                     <i class="fas fa-headphones"></i>
                                     <span>Partner With Us </span>

@@ -57,14 +57,14 @@ $base_path = '';
         <div class="navigation-wrapper">
             <div class="navigation-inner">
                 <div class="navigation-logo">
-                    <a href="<?php echo $base_path; ?>">
+                    <a href="<?php echo $base_path; ?>index.php">
                         <img src="<?php echo $base_path; ?>assets/images/logo.png" alt="Reighway Consulting Logo">
                     </a>
                 </div>
                 <div class="navigation-menu">
                     <div class="mobile-header">
                         <div class="logo">
-                            <a href="<?php echo $base_path; ?>">
+                            <a href="<?php echo $base_path; ?>index.php">
                                 <img src="<?php echo $base_path; ?>assets/images/logo-white.png" alt="Reighway Consulting">
                             </a>
                         </div>
@@ -76,27 +76,27 @@ $base_path = '';
                     </div>
                     <ul class="parent">
                         <li>
-                            <a href="<?php echo $base_path; ?>">
+                            <a href="<?php echo $base_path; ?>index.php">
                                 <span>Home</span>
                             </a>
                         </li>
                         <li>
-                            <a href="<?php echo $base_path; ?>about">
+                            <a href="<?php echo $base_path; ?>about.php">
                                 <span>About</span>
                             </a>
                         </li>
                         <li>
-                            <a href="<?php echo $base_path; ?>service">
+                            <a href="<?php echo $base_path; ?>service.php">
                                 <span>Services</span>
                             </a>
                         </li>
                         <li>
-                            <a href="<?php echo $base_path; ?>career">
+                            <a href="<?php echo $base_path; ?>career.php">
                                 <span>Careers</span>
                             </a>
                         </li>
                         <li>
-                            <a href="<?php echo $base_path; ?>contact">
+                            <a href="<?php echo $base_path; ?>contact.php">
                                 <span>Contact</span>
                             </a>
                         </li>
