@@ -90,7 +90,7 @@ require_once 'includes/header.php';
             <div class="container">
                 <div class="row">
                     <div class="cta-section-content sec-hero-slider-content txt-center">
-                        <h3 class="c-white f-w-400 heading-50 mg-center">Reighway Consulting is more than a consultancy; we are your strategic operational partner. We bridge the gap between world-class talent and global organizations, specializing in bespoke legal support and robust IT infrastructure. We enable firms to scale rapidly while maintaining the highest standards of compliance and excellence.</h3>
+                        <h3 class="c-white f-w-400 heading-50 mg-center">Reighway Consulting is more than a consultancy, we are your strategic operational partner. We bridge the gap between world-class talent and global organizations, specializing in bespoke legal support and robust IT infrastructure. We enable firms to scale rapidly while maintaining the highest standards of compliance and excellence.</h3>
                         <div class="button-group">
                             <a href="career.php" class="button button-1 txt-upper">
                                 <div>
@@ -154,7 +154,7 @@ require_once 'includes/header.php';
                     <div class="row">
                         <div class="icon-box-section-heading-content">
                             <h2 class="f-w-400 heading-40">Why Global Leaders Choose Us </h2>
-                            <p class=" heading-40">n an era of rising costs and complex regulations, Reighway provides the agility you need to scale. We don’t just fill seats; we optimize your entire delivery model. </p>
+                            <p class=" heading-40">In an era of rising costs and complex regulations, Reighway provides the agility you need to scale. We don’t just fill seats; we optimize your entire delivery model. </p>
                         </div>
                     </div>
                     

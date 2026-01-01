@@ -56,29 +56,7 @@ require_once 'includes/header.php';
                             <p class="paragraph c-grey">
                                 Questions about our privacy practices? We're happy to provide detailed information about how we handle your data. Contact us at <a href="mailto:privacy@reighway.com">privacy@reighway.com</a> for more information. 
                             </p>
-                            <h3 class="heading-sm f-w-500">Global Legal & Technical Operations / Talent Solutions Providers</h3>
-                            <ol class="dotted">
-                                <li>Lexitas — Legal talent outsourcing, document review, contract support, interim staffing and legal research services. https://www.lexitaslegal.com/solutions/legal-talent-outsourcing?utm_source=chatgpt.com <br/>
-Website: https://www.lexitaslegal.com  </li>
-                                <li>Mindcrest (DWF Mindcrest) — Global legal services outsourcing covering litigation support, contracts, compliance, research, analytics.  <br/>
-Website: https://www.mindcrest.com </li>
-                                <li>Emapta — Offshore legal outsourcing and talent solutions building global legal operations teams.   <br/> 
-Website: https://emapta.com/industries/legal-outsourcing-solutions/  </li>
-                                <li>LawFlex — Flexible global legal talent, legal operations consultancy, legal process outsourcing.  <br/>  
-Website: https://lawflex.com  </li>
-                                <li>Solvo Global — Legal outsourcing and business process outsourcing for legal support roles and operational tasks.    <br/>
-Website: https://solvoglobal.com  </li>
-                                <li>Work for Impact — Legal staffing and outsourcing solutions, including legal operations and project teams.    <br/>
-Website: https://www.workforimpact.com/legal-staffing  </li>
-                                <li>Magellan Solutions — Legal process outsourcing focusing on back-office legal support services.    <br/>
-Website: https://www.magellan-solutions.com/industry/legal-outsourcing/  </li>
-                                <li>UnitedLex — Legal operations consulting and managed legal services combining strategy, technology and data analytics.    <br/>
-Website: https://unitedlex.com  </li>
-                                <li>Infosys BPM (Legal Process Outsourcing) — Legal process management, eDiscovery, contract lifecycle management and legal research services integrated with tech and BPM.    <br/>
-Website: https://www.infosysbpm.com/services/legal-process-outsourcing.html  </li>
-                                <li>Vahura — Legal recruitment and consulting with market intelligence and talent strategy capabilities (India-focused).    <br/>
-Website: https://vahura.com/legal-department-consulting  </li>
-                            </ol>
+                            
                         </div>
                     </div>
                 </div>
