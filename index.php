@@ -192,7 +192,7 @@ require_once 'includes/header.php';
                                     <img src="assets/images/icons/icon-3.png" alt="Compliance Assurance Icon">
                                 </div>
                                 <h4 class="f-w-500">Seamless Integration</h4>
-                                <p class="c-grey">Our team functions as a "white-label" extension of your firm—your clients won't feel the distance; they will only feel the quality. </p>
+                                <p class="c-grey">Our team functions as a "white-label" extension of your firm your clients won't feel the distance, they will only feel the quality. </p>
                             </div>
                         </div>
                     </div>

@@ -61,7 +61,7 @@ require_once 'includes/header.php';
                             </div>
                             <div>
                                 <h6 class=" c-primary">For career opportunities or recruitment-related questions</h6>
-                                <a href="mailto:careers@reighway.com" class="link  link-grey link-lg"><span>careers@reighway.com</span></a>
+                                <a href="mailto:careers@reighway.com" class="link  link-grey link-lg"><span>contact@reighway.com</span></a>
                             </div>
                         </div>
                     </div>
@@ -72,7 +72,7 @@ require_once 'includes/header.php';
                             </div>
                             <div>
                                 <h6 class=" c-primary">Privacy Matters: For data protection inquiries or privacy-related requests: </h6>
-                                <a href="mailto:privacy@reighway.com" class="link  link-grey link-lg"><span>privacy@reighway.com</span></a>
+                                <a href="mailto:privacy@reighway.com" class="link  link-grey link-lg"><span>info@reighway.com</span></a>
                             </div>
                         </div>
                     </div>

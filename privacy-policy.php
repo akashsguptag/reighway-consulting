@@ -37,7 +37,7 @@ require_once 'includes/header.php';
             <div class="container">
                 <div class="row">
                     <div class="col-lg-9">
-                        <div class="icon-text-2-header">
+                        <div class="icon-text-2-header" style="margin-bottom: 13.2rem;">
                             <h2 class="headin-lg">Our Gold Standard in Data Privacy </h2>
                             <p class="paragraph c-grey">In the legal world, confidentiality is everything. Reighway Consulting operates under a Zero-Trust Security Framework.  </p>
                             <p class="paragraph c-grey">We respect your privacy.  We are committed to protecting your privacy. Any information submitted through our website is used solely for recruitment, consultation, or inquiry purposes. We maintain strict protocols to ensure your data remains secure and confidential. </p>
