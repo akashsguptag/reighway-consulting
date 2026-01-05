@@ -46,7 +46,7 @@ require_once 'includes/header.php';
                     <div class="col-lg-3 col-sm-6 col-7">
                         <div class="contact-detail-single">
                             <div class="icon-circle icon-circle-sm">
-                                <img src="assets/images/icons/icon-15.png" alt="Business Inquiries Icon">
+                                <img src="assets/images/icons/icon-01.png" alt="Business Inquiries Icon">
                             </div>
                             <div>
                                 <h6 class=" c-primary">For business inquiries, partnerships, or service engagements</h6>
@@ -57,7 +57,7 @@ require_once 'includes/header.php';
                     <div class="col-lg-3 col-sm-6 col-7">
                         <div class="contact-detail-single">
                             <div class="icon-circle icon-circle-sm">
-                                <img src="assets/images/icons/icon-16.png" alt="Careers Icon">
+                                <img src="assets/images/icons/icon-01.png" alt="Careers Icon">
                             </div>
                             <div>
                                 <h6 class=" c-primary">For career opportunities or recruitment-related questions</h6>
@@ -68,7 +68,7 @@ require_once 'includes/header.php';
                     <div class="col-lg-3 col-sm-6 col-7">
                         <div class="contact-detail-single">
                             <div class="icon-circle icon-circle-sm">
-                                <img src="assets/images/icons/icon-16.png" alt="careers Icon">
+                                <img src="assets/images/icons/icon-01.png" alt="careers Icon">
                             </div>
                             <div>
                                 <h6 class=" c-primary">Privacy Matters: For data protection inquiries or privacy-related requests: </h6>
@@ -79,7 +79,63 @@ require_once 'includes/header.php';
                     <div class="col-lg-3 col-sm-6 col-7">
                         <div class="contact-detail-single">
                             <div class="icon-circle icon-circle-sm">
-                                <img src="assets/images/icons/icon-18.png" alt="Social Media Icon">
+                                <img src="assets/images/icons/icon-03.png" alt="Social Media Icon">
+                            </div>
+                            <div>
+                                <h6 class=" c-primary">social</h6>
+                                <ul class="social">
+                                    <li>
+                                        <a href="#" aria-label="Twitter">
+                                            <i class="fab fa-twitter-square"></i>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="#" aria-label="Facebook">
+                                            <i class="fab fa-facebook-square"></i>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="#" aria-label="YouTube">
+                                            <i class="fab fa-youtube"></i>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="#" aria-label="LinkedIn">
+                                            <i class="fab fa-linkedin"></i>
+                                        </a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="row contact-detail-row hidden">
+                    <div class="col-lg-4 col-sm-6 col-7">
+                        <div class="contact-detail-single">
+                            <div class="icon-circle icon-circle-sm">
+                                <img src="assets/images/icons/icon-04.png" alt="careers Icon">
+                            </div>
+                            <div>
+                                <h6 class=" c-primary">Address: </h6>
+                                <a href="mailto:privacy@reighway.com" class="link  link-grey link-lg"><span>Plot no. A480,  Sector A, Shapura, Bhopal 462016</span></a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-sm-6 col-7">
+                        <div class="contact-detail-single">
+                            <div class="icon-circle icon-circle-sm">
+                                <img src="assets/images/icons/icon-02.png" alt="careers Icon">
+                            </div>
+                            <div>
+                                <h6 class=" c-primary">Contact: </h6>
+                                <a href="mailto:privacy@reighway.com" class="link  link-grey link-lg"><span>+44 1234 943 111</span></a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-sm-6 col-7">
+                        <div class="contact-detail-single">
+                            <div class="icon-circle icon-circle-sm">
+                                <img src="assets/images/icons/icon-03.png" alt="Social Media Icon">
                             </div>
                             <div>
                                 <h6 class=" c-primary">social</h6>

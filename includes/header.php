@@ -37,10 +37,10 @@ $base_path = '';
             <div class="menu">
                 <ul>
                     <li class="phone lt-1">
-                        <a href="tel:441234943111" class="link link-sm">
+                        <!-- <a href="tel:441234943111" class="link link-sm">
                             <i class="fas fa-phone-alt c-primary"></i>
                             <span>+44 1234 943 111</span>
-                        </a>
+                        </a> -->
                     </li>
                 </ul>
             </div>
